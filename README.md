@@ -1,6 +1,6 @@
 # Howdy 🤠👋
 ### Fullstack Developer
-- 🔭 Currently working on a new backend implementation for a [non profit organization](https://a.humanrightsfirst.dev/) 
+- 🔭 Currently working with students, holding support hours to answer questions and debug problems 
 - 🌱 Learning more about data types and algorithms
 - 🤔 Looking for the start of a new career!
 - Disc Golf🥏 and Rubik's Cubes🕋
